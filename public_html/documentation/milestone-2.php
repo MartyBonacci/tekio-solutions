@@ -18,12 +18,12 @@
 			<li><p><strong>Footer:</strong> Copyright information. (Future: social media links.)</p></li>
 		</ul>
 
-		<!-- Create wireframes using https://balsamiq.com -->
+		<!-- Create wireframes using balsamiq.com or mockflow.com -->
 		<h2>Wireframes</h2>
 		<p>This site will feature one layout that will be fully responsive on small and large screens.</p>
 		<h4>Full Screen Layout</h4>
 
-		<p>(insert image here)</p>
+		<img src="../../images/pwp-ts-fullscreen.png" alt="full screen layout"/>
 
 		<h4>Mobile Layout</h4>
 
