@@ -11,10 +11,11 @@
 		<h2>Content Strategy</h2>
 		<p>My PWP site will be one page, and will have the following sections:</p>
 		<ul>
-			<li><strong>Welcome:</strong> ...<br></li>
-			<li><strong>About Us:</strong> ...<br></li>
-			<li><strong>Services:</strong> ...<br></li>
-			<li><strong>Contact:</strong> ...<br></li>
+			<li><strong>Welcome:</strong> A brief introduction that clearly shows the business name and tagline. This welcome will be overlaid on a large background image (to be determined).<br></li>
+			<li><strong>About:</strong> This section will provide details about the business, including a brief description about the meaning of the business’s name.<br></li>
+			<li><strong>Who We Are:</strong> This section highlights who we are (Jolynn & Dominic) and gives a brief description about each of us and our skill sets, and will also include links to professional social media profiles.<br></li>
+			<li><strong>Services:</strong> This section will highlight the services offered by the business, including a brief description of each: website development, tribal business consulting, STEM rentals & training. Included will be iconography to represent the services.<br></li>
+			<li><strong>Contact:</strong> This section will have a simple contact form, business mailing address, business email address, and phone number.<br></li>
 		</ul>
 
 		<!-- Create wireframes using https://balsamiq.com -->
