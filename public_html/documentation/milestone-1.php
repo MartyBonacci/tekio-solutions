@@ -11,8 +11,8 @@
 		<h2>Purpose, Audience &amp; Goal</h2>
 		<ul>
 		<li><strong>Purpose</strong>: This project will be a small business website for Tekio Solutions, LLC with a focus on front-end development.</li>
-		<li><strong>Audience</strong>: This website will be designed with potential clients and professional peers in mind.</li>
-		<li><strong>Goal</strong>: The primary goal of this website will be to attract new clients and acquire projects. Users of the site will be able to understand who Tekio Solutions, LLC is (i.e., Native American woman-owned business) and what business and technology services are offered. Users will also be able to initiate contact with Tekio Solutions, LLC regarding projects and collaboration opportunities by using a secure contact form.</li>
+			<li><p><strong>Audience</strong>: This website will be designed with potential clients and professional peers in mind.</p></li>
+			<li><p><strong>Goal</strong>: The primary goal of this website will be to attract new clients and acquire projects. Users of the site will be able to understand who Tekio Solutions, LLC is (i.e., Native American woman-owned business) and what business and technology services are offered. Users will also be able to initiate contact with Tekio Solutions, LLC regarding projects and collaboration opportunities by using a secure contact form.</p></li>
 		</ul>
 
 		<!-- Define a Persona representing the target audience for the PWP -->

@@ -12,10 +12,9 @@
 		<p>My PWP site will be one page, and will have the following sections:</p>
 		<ul>
 			<li><strong>Welcome:</strong> A brief introduction that clearly shows the business name and tagline. This welcome will be overlaid on a large background image (to be determined).<br></li>
-			<li><strong>About:</strong> This section will provide details about the business, including a brief description about the meaning of the business’s name.<br></li>
-			<li><strong>Who We Are:</strong> This section highlights who we are (Jolynn & Dominic) and gives a brief description about each of us and our skill sets, and will also include links to professional social media profiles.<br></li>
-			<li><strong>Services:</strong> This section will highlight the services offered by the business, including a brief description of each: website development, tribal business consulting, STEM rentals & training. Included will be iconography to represent the services.<br></li>
-			<li><strong>Contact:</strong> This section will have a simple contact form, business mailing address, business email address, and phone number.<br></li>
+			<li><p><strong>About:</strong> This section will provide details about the business, including a brief description about the meaning of the business’s name. This section will also include details about me, the lead web developer, and list my skills along with links to professional social media profiles.</p></li>
+			<li><p><strong>Services:</strong> This section will highlight the Website Development and Digital Content Creation services offered by the business, including a brief description and iconography of each.</p></li>
+			<li><p><strong>Contact:</strong> This section will have a simple contact form, business mailing address, business email address, and phone number.</p></li>
 		</ul>
 
 		<!-- Create wireframes using https://balsamiq.com -->
