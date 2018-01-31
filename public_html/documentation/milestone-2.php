@@ -25,6 +25,6 @@
 		<h2>Full Screen Wireframe</h2>
 		<img src="../../images/pwp-ts-fullscreen.png" alt="full screen layout">
 
-		<p><br>The wireframes were created using <a href="https://mockflow.com/" target="_blank">https://mockflow.com</a>.</p>
+		<p>The wireframes were created using <a href="https://mockflow.com/" target="_blank">https://mockflow.com</a>.</p>
 
 	</body>
