@@ -19,14 +19,12 @@
 		</ul>
 
 		<!-- Create wireframes using balsamiq.com or mockflow.com -->
-		<h2>Wireframes</h2>
-		<p>My PWP site will have one layout which will be fully responsive on small and large screens. The wireframes were created using <a href="https://mockflow.com/" target="_blank">https://mockflow.com</a>.</p>
-
-		<h4>Mobile Layout</h4>
+		<h2>Mobile Wireframe</h2>
 		<img src="../../images/pwp-ts-mobile.jpg" alt="mobile screen layout">
 
-		<h4>Full Screen Layout</h4>
-
+		<h2>Full Screen Wireframe</h2>
 		<img src="../../images/pwp-ts-fullscreen.png" alt="full screen layout">
+
+		<p><br>The wireframes were created using <a href="https://mockflow.com/" target="_blank">https://mockflow.com</a>.</p>
 
 	</body>
