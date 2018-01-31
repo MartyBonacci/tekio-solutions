@@ -5,7 +5,7 @@
 		<title>PWP: Milestone 2</title>
 	</head>
 	<body>
-		<h1>PWP: Milestone 2&alpha;</h1>
+		<h1>Jolynn's PWP: Milestone 2&alpha;</h1>
 
 		<!-- Document content to be featured in each section of the PWP site -->
 		<h2>Content Strategy</h2>
