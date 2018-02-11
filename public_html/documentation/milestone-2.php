@@ -20,10 +20,10 @@
 
 		<!-- Create wireframes using balsamiq.com or mockflow.com -->
 		<h2>Mobile Wireframe</h2>
-		<img src="../../images/pwp-ts-mobile.jpg" alt="mobile screen layout">
+		<img src="../images/pwp-ts-mobile.jpg" alt="mobile screen layout">
 
 		<h2>Full Screen Wireframe</h2>
-		<img src="../../images/pwp-ts-fullscreen.png" alt="full screen layout">
+		<img src="../images/pwp-ts-fullscreen.png" alt="full screen layout">
 
 		<p>The wireframes were created using <a href="https://mockflow.com/" target="_blank">https://mockflow.com</a>.</p>
 
