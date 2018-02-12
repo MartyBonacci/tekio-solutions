@@ -19,6 +19,36 @@
 		<title>Tekio Solutions, LLC</title>
 	</head>
 	<body>
-		<h1>PWP</h1>
+		<!-- Header with Navbar, full-width image, title -->
+		<header>
+
+
+		</header>
+
+		<!-- About section -->
+		<section>
+
+
+		</section>
+
+		<!-- Services section -->
+		<section>
+
+
+		</section>
+
+		<!-- Contact section with contact form -->
+		<section>
+
+
+		</section>
+
+		<!-- Footer -->
+		<footer>
+
+
+		</footer>
+
+
 	</body>
 </html>
