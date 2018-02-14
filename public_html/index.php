@@ -29,13 +29,13 @@
 
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav ml-auto mr-auto">
-							<li class="nav-item">
+							<li class="nav-item ml-auto mr-auto">
 								<a class="nav-link" href="#">About</a>
 							</li>
-							<li class="nav-item">
+							<li class="nav-item ml-auto mr-auto">
 								<a class="nav-link" href="#">Services</a>
 							</li>
-							<li class="nav-item">
+							<li class="nav-item ml-auto mr-auto">
 								<a class="nav-link" href="#">Contact</a>
 							</li>
 						</ul>
