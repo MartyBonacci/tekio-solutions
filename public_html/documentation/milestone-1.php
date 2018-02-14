@@ -19,7 +19,7 @@
 		<h2>Persona</h2>
 		<p><strong>Name</strong>: Floyd Platero<br>
 			<strong>Age</strong>: 53</p>
-		<img src="../images/persona-image.jpg" alt="Persona Image Floyd"/>
+		<img src="images/persona-image.jpg" alt="Persona Image Floyd"/>
 		<p><strong>Profession</strong>: Tribal Administrator for a Tribal Nation. The Tribal Nation recently acquired grant funding for new and existing tribal programs, and they are looking for ways to improve these programs through the use of technology and websites.</p>
 		<p><strong>Technology</strong>: Floyd uses a Windows computer with a Chrome Browser only while at work, and while he can navigate the internet and websites fairly well, he has limited technical knowledge.</p>
 		<p><strong>Attitudes and Behaviors</strong>: In his browsing of the internet, Floyd has come across useful information for possible tribal programs, and has seen some websites that he likes, but he is cautious about content and information sharing. Floyd tends to be reserved and private, but he's also open to learning more about technology. Floyd spends his days managing business relationships, seeking new opportunities, and constantly looking for ideas to improve his Tribal Nation.</p>
