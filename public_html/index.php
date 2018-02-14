@@ -22,7 +22,6 @@
 		<!-- Header with Navbar, full-width image, title -->
 		<header>
 			<div class="container">
-				<img src="images/office-1.jpg" class="img-fluid" alt="Responsive image">
 				<nav class="navbar navbar-expand-sm navbar-light justify-content-center">
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
