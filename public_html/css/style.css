@@ -1,3 +1,14 @@
-header {
-	background-image: url(../images/office-1.jpg);
+.foo {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.foo-content {
+	flex: 1 0 auto;
+}
+
+.home-img {
+	background: url("../images/office-1.jpg") no-repeat;
+	background-size: cover;
 }
