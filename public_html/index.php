@@ -60,7 +60,15 @@
 					text
 				</div>
 				<div class="row">
-					photo w/text
+					<div class="col-lg-3">
+						<img class="img-thumbnail d-block mx-auto mb-3 mb-lg-0" src="../images/jolynn-pruitt.jpg" alt="Jolynn Pruitt">
+					</div>
+					<div class="col-lg-7">
+						text
+					</div>
+					<div class="col-lg-2">
+						social icon links
+					</div>
 				</div>
 			</div>
 
