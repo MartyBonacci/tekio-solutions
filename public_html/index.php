@@ -55,11 +55,14 @@
 			<div class="container-fluid bg-dark py-2">
 				<h5 class="text-light text-center mb-0">ABOUT</h5>
 			</div>
-			<div class="container">
-				<div class="row">
-					text
+
+			<div class="container px-4">
+				<div class="row p-4">
+					<p>Tekio Solutions, LLC is a technology company focused on helping you achieve your business goals. Through our website development and digital content creation services, we work to ensure your online presence is valuable and truly represents you and your company.</p>
+					<p>Our company's name, Tekio Solutions, is the blending of the words Technology (Tek) and Data (input/output or IO), which are significant driving forces in business today. In addition, "Tekio" is a Japanese word that means "adaptation". And since we are focused on helping solve business challenges, the word "solutions" was added.</p>
+					<p class="font-italic">So ... Tekio Solutions means Adaptable Answers for your business or organization.</p>
 				</div>
-				<div class="row">
+				<div class="row pb-4">
 					<div class="col-lg-3">
 						<img class="img-thumbnail d-block mx-auto mb-3 mb-lg-0" src="images/jolynn-pruitt.jpg" alt="Jolynn Pruitt">
 					</div>
@@ -71,12 +74,39 @@
 					</div>
 				</div>
 			</div>
-
-
 		</section>
 
 		<!-- Services section -->
 		<section>
+			<div class="container-fluid bg-dark py-2">
+				<h5 class="text-light text-center mb-0">SERVICES</h5>
+			</div>
+
+			<div class="container px-4">
+				<div class="row">
+					<!-- website development card -->
+					<div class="col-lg-6">
+						<div class="card">
+							<div class="card-body">
+								<p class="card-text">
+									Website Development
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<!-- digital content creation card -->
+					<div class="col-lg-6">
+						<div class="card">
+							<div class="card-body">
+								<p class="card-text">
+									Digital Content Creation
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 
 
 		</section>
