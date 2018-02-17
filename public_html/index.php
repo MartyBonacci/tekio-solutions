@@ -53,7 +53,7 @@
 		<!-- About section -->
 		<section>
 			<div class="container-fluid bg-dark py-2">
-				<h5 class="text-light text-center mb-0">ABOUT</h5>
+				<h6 class="text-light text-center mb-0">ABOUT</h6>
 			</div>
 
 			<div class="container px-4">
@@ -79,10 +79,10 @@
 		<!-- Services section -->
 		<section>
 			<div class="container-fluid bg-dark py-2">
-				<h5 class="text-light text-center mb-0">SERVICES</h5>
+				<h6 class="text-light text-center mb-0">SERVICES</h6>
 			</div>
 
-			<div class="container px-4">
+			<div class="container p-4">
 				<div class="row">
 					<!-- website development card -->
 					<div class="col-lg-6">
@@ -107,22 +107,31 @@
 					</div>
 				</div>
 			</div>
-
-
 		</section>
 
 		<!-- Contact section with contact form -->
 		<section>
+			<div class="container-fluid bg-dark py-2">
+				<h6 class="text-light text-center mb-0">CONTACT</h6>
+			</div>
 
-
+			<div class="container px-4">
+				<div class="row pb-4">
+					<div class="col-lg-6">
+						Contact Information (address, etc)
+					</div>
+					<div class="col-lg-6">
+						Contact Form
+					</div>
+				</div>
+			</div>
 		</section>
 
 		<!-- Footer -->
 		<footer>
-
-
+			<div class="container-fluid bg-dark py-2">
+				<p class="text-light text-center mb-0">Copyright 2018 - Tekio Solutions, LLC</p>
+			</div>
 		</footer>
-
-
 	</body>
 </html>
