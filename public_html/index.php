@@ -61,7 +61,7 @@
 				</div>
 				<div class="row">
 					<div class="col-lg-3">
-						<img class="img-thumbnail d-block mx-auto mb-3 mb-lg-0" src="../images/jolynn-pruitt.jpg" alt="Jolynn Pruitt">
+						<img class="img-thumbnail d-block mx-auto mb-3 mb-lg-0" src="images/jolynn-pruitt.jpg" alt="Jolynn Pruitt">
 					</div>
 					<div class="col-lg-7">
 						text
