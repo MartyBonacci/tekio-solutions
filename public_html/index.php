@@ -42,8 +42,8 @@
 					</nav>
 				</div>
 				<div class="jumbotron jumbotron-fluid">
-					<div class="container align-middle">
-						<h1 class="display-4 font-weight-bold text-white text-center">Tekio Solutions, LLC</h1>
+					<div class="container mt-5">
+						<h1 class="display-4 font-weight-bold text-white text-center pt-5">Tekio Solutions, LLC</h1>
 						<p class="lead font-italic text-white text-center">Adaptable Answers for Your Business</p>
 					</div>
 				</div>

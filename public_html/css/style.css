@@ -3,9 +3,10 @@ img {
 }
 
 .jumbotron.jumbotron-fluid {
-	background-image: url(../images/office-1.jpg);
+	background-image: url(../images/dark-bg-1.jpg);
 	min-height: 500px;
 	background-size: cover;
+	background-position: center;
 }
 
 h1 {
