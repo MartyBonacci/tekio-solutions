@@ -41,7 +41,7 @@
 						</div>
 					</nav>
 				</div>
-				<div class="jumbotron jumbotron-fluid">
+				<div class="jumbotron jumbotron-fluid mb-0">
 					<div class="container mt-5">
 						<h1 class="display-4 font-weight-bold text-white text-center pt-5">Tekio Solutions, LLC</h1>
 						<p class="lead font-italic text-white text-center">Adaptable Answers for Your Business</p>
@@ -50,9 +50,19 @@
 <!--				<img src="images/office-1.jpg" class="img-fluid" alt="Responsive image"> -->
 			</header>
 
-
 		<!-- About section -->
 		<section>
+			<div class="container-fluid bg-dark py-2">
+				<h5 class="text-light text-center mb-0">ABOUT</h5>
+			</div>
+			<div class="container">
+				<div class="row">
+					text
+				</div>
+				<div class="row">
+					photo w/text
+				</div>
+			</div>
 
 
 		</section>
