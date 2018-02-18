@@ -57,17 +57,23 @@
 			</div>
 
 			<div class="container px-4">
-				<div class="row p-4">
-					<p>Tekio Solutions, LLC is a technology company focused on helping you achieve your business goals. Through our website development and digital content creation services, we work to ensure your online presence is valuable and truly represents you and your company.</p>
+				<div class="row pt-4 px-4">
+					<p>Tekio Solutions, LLC is a technology company focused on helping you achieve your business goals. Through our website development and digital content creation services, we work to ensure your online presence is valuable and truly represents you and your business.</p>
 					<p>Our company's name, Tekio Solutions, is the blending of the words Technology (Tek) and Data (input/output or IO), which are significant driving forces in business today. In addition, "Tekio" is a Japanese word that means "adaptation". And since we are focused on helping solve business challenges, the word "solutions" was added.</p>
-					<p class="font-italic">So ... Tekio Solutions means Adaptable Answers for your business or organization.</p>
+					<p class="font-italic font-weight-bold text-center">Therefore, Tekio Solutions means Adaptable Answers for your business or organization.</p>
 				</div>
+				<hr>
 				<div class="row pb-4">
 					<div class="col-lg-3">
-						<img class="img-thumbnail d-block mx-auto mb-3 mb-lg-0" src="images/jolynn-pruitt.jpg" alt="Jolynn Pruitt">
+						<img class="img-thumbnail d-block mx-auto mb-2 mb-lg-0" src="images/jolynn-pruitt.jpg" alt="Jolynn Pruitt">
 					</div>
 					<div class="col-lg-7">
-						text
+						<dl>
+							<dt>Jolynn Pruitt</dt>
+							<dd class="font-weight-light text-muted">Owner/Web Developer</dd>
+						</dl>
+						<p>Jolynn enjoys creating websites and solving problems. She has nearly 8 years of web development experience using WordPress, and recently trained to be a full stack web developer at a Deep Dive Coding Bootcamp. Her skills include HTML, PHP, CSS, mySQL, JavaScript, Angular JS, Bootstrap, and WordPress.
+							Jolynn is Navajo from Fort Defiance, AZ and holds a Bachelor's Degree in mathematics from Fort Lewis College. When not developing websites, she enjoys spending time with her husband and three children.</p>
 					</div>
 					<div class="col-lg-2">
 						social icon links
@@ -130,7 +136,7 @@
 		<!-- Footer -->
 		<footer>
 			<div class="container-fluid bg-dark py-2">
-				<p class="text-light text-center mb-0">Copyright 2018 - Tekio Solutions, LLC</p>
+				<p class="font-weight-light text-muted text-center mb-0">Copyright &copy; 2018 - Tekio Solutions, LLC</p>
 			</div>
 		</footer>
 	</body>
