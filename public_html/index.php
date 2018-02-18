@@ -72,11 +72,16 @@
 							<dt>Jolynn Pruitt</dt>
 							<dd class="font-weight-light text-muted">Owner/Web Developer</dd>
 						</dl>
-						<p>Jolynn enjoys creating websites and solving problems. She has nearly 8 years of web development experience using WordPress, and recently trained to be a full stack web developer at a Deep Dive Coding Bootcamp. Her skills include HTML, PHP, CSS, mySQL, JavaScript, Angular JS, Bootstrap, and WordPress.
-							Jolynn is Navajo from Fort Defiance, AZ and holds a Bachelor's Degree in mathematics from Fort Lewis College. When not developing websites, she enjoys spending time with her husband and three children.</p>
+						<p>Jolynn has nearly 8 years of web development experience using WordPress, and recently trained to be a full stack web developer at Deep Dive Coding Bootcamp. Her skills include HTML, PHP, CSS, mySQL, JavaScript, Angular JS, Bootstrap, and WordPress.</p>
+						<p>Jolynn is Navajo from Fort Defiance, AZ and holds a Bachelor's Degree in mathematics from Fort Lewis College. When not developing websites, she enjoys spending time with her husband and three children.</p>
 					</div>
 					<div class="col-lg-2">
-						social icon links
+						<div class="card">
+							<ul class="list-group list-group-center">
+								<li class="list-group-item">LinkedIn</li>
+								<li class="list-group-item">GitHub</li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -92,22 +97,20 @@
 				<div class="row">
 					<!-- website development card -->
 					<div class="col-lg-6">
-						<div class="card">
+						<div class="card border-0">
 							<div class="card-body">
-								<p class="card-text">
-									Website Development
-								</p>
+								<p class="card-text font-weight-bold text-center">Website Development</p>
+								<p>Mobile responsive websites designed, developed, and hosted with your business goals in mind. From the intial strategic planning phase, through the development process, to the end result, we work with you to ensure your vision becomes a reality.</p>
 							</div>
 						</div>
 					</div>
 
 					<!-- digital content creation card -->
 					<div class="col-lg-6">
-						<div class="card">
+						<div class="card border-0">
 							<div class="card-body">
-								<p class="card-text">
-									Digital Content Creation
-								</p>
+								<p class="card-text font-weight-bold text-center">Digital Content Creation</p>
+								<p>Audio, Photo, and Video content captured, edited, and produced to fit the needs of your business. Using professional equipment, we work with you to provide high-quality digital media content to get your message out. </p>
 							</div>
 						</div>
 					</div>
