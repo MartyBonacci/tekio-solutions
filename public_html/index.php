@@ -16,6 +16,8 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
 		<title>Tekio Solutions, LLC</title>
 	</head>
 	<body>
@@ -96,8 +98,9 @@
 			<div class="container p-4">
 				<div class="row">
 					<!-- website development card -->
-					<div class="col-lg-6">
+					<div class="col-lg-6 py-4">
 						<div class="card border-0">
+							<div class="card-text text-center"><i class="fas fa-globe fa-2x"></i></div>
 							<div class="card-body">
 								<p class="card-text font-weight-bold text-center">Website Development</p>
 								<p>Mobile responsive websites designed, developed, and hosted with your business goals in mind. From the intial strategic planning phase, through the development process, to the end result, we work with you to ensure your vision becomes a reality.</p>
@@ -106,8 +109,9 @@
 					</div>
 
 					<!-- digital content creation card -->
-					<div class="col-lg-6">
+					<div class="col-lg-6 py-4">
 						<div class="card border-0">
+							<div class="card-text text-center"><i class="fas fa-magic fa-2x"></i></div>
 							<div class="card-body">
 								<p class="card-text font-weight-bold text-center">Digital Content Creation</p>
 								<p>Audio, Photo, and Video content captured, edited, and produced to fit the needs of your business. Using professional equipment, we work with you to provide high-quality digital media content to get your message out. </p>
