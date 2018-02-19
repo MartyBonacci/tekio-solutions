@@ -129,12 +129,17 @@
 			</div>
 
 			<div class="container px-4">
-				<div class="row pb-4">
+				<div class="row p-4">
 					<div class="col-lg-6">
-						Contact Information (address, etc)
+						<p class="font-weight-bold">Tekio Solutions, LLC</p>
+						<p>7820 Enchanted Hills Blvd NE<br>
+						   Suite A-234<br>
+						   Rio Rancho, NM 87144<br>
+						   (505)750-3791</p>
 					</div>
 					<div class="col-lg-6">
-						Contact Form
+						Contact us today!
+						(contact form)
 					</div>
 				</div>
 			</div>
