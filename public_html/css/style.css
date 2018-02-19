@@ -13,6 +13,10 @@ h1 {
 	text-shadow: 2px 2px black;
 }
 
+p.lead.font-italic.text-white.text-center {
+	text-shadow: 2px 2px black;
+}
+
 div.container-fluid.py-2 {
 	background-color: rgb(28, 48, 83);
 }

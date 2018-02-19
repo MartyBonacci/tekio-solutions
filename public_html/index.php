@@ -23,28 +23,28 @@
 	<body>
 		<!-- Header with Navbar, full-width image, title -->
 			<header>
-				<div class="container">
-					<nav class="navbar navbar-expand-sm navbar-light justify-content-center">
-						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-							<span class="navbar-toggler-icon"></span>
-						</button>
-						<div class="collapse navbar-collapse" id="navbarSupportedContent">
-							<ul class="navbar-nav ml-auto mr-auto">
-								<li class="nav-item ml-auto mr-auto">
-									<a class="nav-link" href="#">About</a>
-								</li>
-								<li class="nav-item ml-auto mr-auto">
-									<a class="nav-link" href="#">Services</a>
-								</li>
-								<li class="nav-item ml-auto mr-auto">
-									<a class="nav-link" href="#">Contact</a>
-								</li>
-							</ul>
-						</div>
-					</nav>
-				</div>
-				<div class="jumbotron jumbotron-fluid mb-0">
-					<div class="container mt-5">
+				<div class="jumbotron jumbotron-fluid p-0 mb-0">
+					<div class="container">
+						<nav class="navbar navbar-expand-sm navbar-dark justify-content-center">
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<ul class="navbar-nav ml-auto mr-auto">
+									<li class="nav-item ml-auto mr-auto">
+										<a class="nav-link text-light" href="#about">About</a>
+									</li>
+									<li class="nav-item ml-auto mr-auto">
+										<a class="nav-link text-light" href="#services">Services</a>
+									</li>
+									<li class="nav-item ml-auto mr-auto">
+										<a class="nav-link text-light" href="#contact">Contact</a>
+									</li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+					<div class="container mt-4">
 						<h1 class="display-4 font-weight-bold text-white text-center pt-5">Tekio Solutions, LLC</h1>
 						<p class="lead font-italic text-white text-center">Adaptable Answers for Your Business</p>
 					</div>
@@ -53,7 +53,7 @@
 			</header>
 
 		<!-- About section -->
-		<section>
+		<section id="about">
 			<div class="container-fluid py-2">
 				<h6 class="text-light text-center mb-0">ABOUT</h6>
 			</div>
@@ -90,7 +90,7 @@
 		</section>
 
 		<!-- Services section -->
-		<section>
+		<section id="services">
 			<div class="container-fluid py-2">
 				<h6 class="text-light text-center mb-0">SERVICES</h6>
 			</div>
@@ -123,7 +123,7 @@
 		</section>
 
 		<!-- Contact section with contact form -->
-		<section>
+		<section id="contact">
 			<div class="container-fluid py-2">
 				<h6 class="text-light text-center mb-0">CONTACT</h6>
 			</div>
