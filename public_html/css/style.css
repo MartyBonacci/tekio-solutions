@@ -1,3 +1,7 @@
+body {
+	background-color: aliceblue;
+}
+
 .jumbotron.jumbotron-fluid {
 	background-image: url(../images/dark-bg-1.jpg);
 	min-height: 500px;
@@ -7,6 +11,10 @@
 
 h1 {
 	text-shadow: 2px 2px black;
+}
+
+div.container-fluid.py-2 {
+	background-color: rgb(28, 48, 83);
 }
 
 .img-thumbnail {

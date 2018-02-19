@@ -54,7 +54,7 @@
 
 		<!-- About section -->
 		<section>
-			<div class="container-fluid bg-dark py-2">
+			<div class="container-fluid py-2">
 				<h6 class="text-light text-center mb-0">ABOUT</h6>
 			</div>
 
@@ -91,7 +91,7 @@
 
 		<!-- Services section -->
 		<section>
-			<div class="container-fluid bg-dark py-2">
+			<div class="container-fluid py-2">
 				<h6 class="text-light text-center mb-0">SERVICES</h6>
 			</div>
 
@@ -99,7 +99,7 @@
 				<div class="row">
 					<!-- website development card -->
 					<div class="col-lg-6 py-4">
-						<div class="card border-0">
+						<div class="card pt-4">
 							<div class="card-text text-center"><i class="fas fa-globe fa-2x"></i></div>
 							<div class="card-body">
 								<p class="card-text font-weight-bold text-center">Website Development</p>
@@ -110,7 +110,7 @@
 
 					<!-- digital content creation card -->
 					<div class="col-lg-6 py-4">
-						<div class="card border-0">
+						<div class="card pt-4">
 							<div class="card-text text-center"><i class="fas fa-magic fa-2x"></i></div>
 							<div class="card-body">
 								<p class="card-text font-weight-bold text-center">Digital Content Creation</p>
@@ -124,7 +124,7 @@
 
 		<!-- Contact section with contact form -->
 		<section>
-			<div class="container-fluid bg-dark py-2">
+			<div class="container-fluid py-2">
 				<h6 class="text-light text-center mb-0">CONTACT</h6>
 			</div>
 
@@ -138,7 +138,7 @@
 						   (505)750-3791</p>
 					</div>
 					<div class="col-lg-6">
-						Contact us today!
+						Contact us today!<br>
 						(contact form)
 					</div>
 				</div>
@@ -147,7 +147,7 @@
 
 		<!-- Footer -->
 		<footer>
-			<div class="container-fluid bg-dark py-2">
+			<div class="container-fluid py-2">
 				<p class="font-weight-light text-muted text-center mb-0">Copyright &copy; 2018 - Tekio Solutions, LLC</p>
 			</div>
 		</footer>
